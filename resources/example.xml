@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<polygons>
+    <polygon>
+        <boundaryWord>d^5 h^3 g hh g^3 bg bd bb gb</boundaryWord>
+    </polygon>
+    <polygon>
+        <boundaryWord>d^4 h^4 g^4 b^4</boundaryWord>
+    </polygon>
+    <polygon>
+        <boundaryWord>(dh)^40 (hg)^40 (gb)^40 (bd)^40</boundaryWord>
+    </polygon>
+    <polygon>
+        <boundaryWord>(dh)^20 (hg)^19 hh (dh)^19 (hg)^20 (gb)^19 gg (hg)^19 (gb)^20(bd)^19 bb (gb)^19 (bd)^20 (dh)^19 dd (bd)^19</boundaryWord>
+    </polygon>
+    <polygon>
+        <boundaryWord>(dh)^60 (hg)^30 (gb)^29 g (gh)^29 g (gb)^30 (bd)^60</boundaryWord>
+    </polygon>
+</polygons>
