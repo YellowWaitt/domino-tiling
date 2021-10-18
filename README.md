@@ -19,13 +19,19 @@ Using the lattice structure of set of the tilings of a given polygon and the fli
 | --- | --- | --- |
 | ![](https://github.com/YellowWaitt/domino-tiling/blob/main/images/aztec_diamond.png) | ![](https://github.com/YellowWaitt/domino-tiling/blob/main/images/hearth.png) | ![](https://github.com/YellowWaitt/domino-tiling/blob/main/images/cross.png) |
 
-### The logiciel
+### The program
 
-You can use the logiciel with the jar provided or by compiling yourself the sources.
+You can use the program with the jar provided or by compiling the sources yourself.
 
 It allows you to enter any polygon by describing his boundary. You can use the letters *h*, *d*, *b* and *g* (respictively for *up*, *right*, *bottom* and *left*) and exponentitation to describe the boundary. For example the 4x4 square could be described as `d^4 h^4 g^4 bbbb`, white spaces being ignored. The polygon's boundary of the above images can be found [here](https://github.com/YellowWaitt/domino-tiling/blob/main/resources/example.xml).
 
-Once you have a polygon you can edit his boundary by double clicking on it in the left panel, show his tiling and/or his associated height function using the *"Affichage"* menu at the top, do flip on his tiling by clicking between two dominoes in the right panel and generate a random tiling using the *"Mélange"* menu. Note that if a polygon is non tilleable and the options to show his tilling is enabled, nothing will be shown in the right panel.
+Once you have a polygon you can:
+- edit his boundary by double clicking on it in the left panel
+- show his tiling and/or his associated height function using the *"Affichage"* menu at the top
+- do flip on his tiling by clicking between two dominoes in the right panel
+- generate a random tiling using the *"Mélange"* menu.
+
+Note that if a polygon is non tilleable and the options to show his tilling is enabled, nothing will be shown in the right panel.
 
 ## References
 
